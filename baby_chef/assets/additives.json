@@ -1,0 +1,28 @@
+{
+    "Gelmix": {
+        "note": "",
+        "slightly thick": {
+            "volume_mL": 120,
+            "gel_mix_tsp": 1.0
+        },
+        "midly thick": {
+            "volume_mL": 90,
+            "gel_mix_tsp": 1.0
+        },
+        "moderately thick": {
+            "volume_mL": 60,
+            "gel_mix_tsp": 1.0
+        }
+    },
+    "Oatmeal": {
+        "note": "",
+        "midly thick": {
+            "volume_mL": 30,
+            "oatmeal_tsp": 2.0
+        },
+        "moderately thick": {
+            "volume_mL": 60,
+            "oatmeal_tsp": 5.0
+        }
+    }
+}

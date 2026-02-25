@@ -1,0 +1,1714 @@
+{
+  "Alfamino Infant": {
+    "type": "powder",
+    "note": "",
+    "basic_recipe_cal": 20,
+    "scoop_g": 4.7,
+    "tsp_g": 2.6,
+    "formula_only": {
+      "20": {
+        "powder_g": 14.1,
+        "water_ml": 94
+      },
+      "21": {
+        "powder_g": 14.1,
+        "water_ml": 89
+      },
+      "22": {
+        "powder_g": 14.1,
+        "water_ml": 85
+      },
+      "23": {
+        "powder_g": 14.1,
+        "water_ml": 81
+      },
+      "24": {
+        "powder_g": 14.1,
+        "water_ml": 77
+      },
+      "25": {
+        "powder_g": 14.1,
+        "water_ml": 73
+      },
+      "26": {
+        "powder_g": 14.1,
+        "water_ml": 70
+      },
+      "27": {
+        "powder_g": 14.1,
+        "water_ml": 67
+      },
+      "28": {
+        "powder_g": 14.1,
+        "water_ml": 64
+      },
+      "29": {
+        "powder_g": 14.1,
+        "water_ml": 62
+      },
+      "30": {
+        "powder_g": 14.1,
+        "water_ml": 59
+      }
+    },
+    "human_milk": {
+      "21": {
+        "powder_g": 2.6,
+        "milk_ml": 380
+      },
+      "22": {
+        "powder_g": 2.6,
+        "milk_ml": 190
+      },
+      "23": {
+        "powder_g": 2.6,
+        "milk_ml": 127
+      },
+      "24": {
+        "powder_g": 2.6,
+        "milk_ml": 95
+      },
+      "25": {
+        "powder_g": 2.6,
+        "milk_ml": 76
+      },
+      "26": {
+        "powder_g": 2.6,
+        "milk_ml": 63
+      },
+      "27": {
+        "powder_g": 2.6,
+        "milk_ml": 54
+      },
+      "28": {
+        "powder_g": 2.6,
+        "milk_ml": 48
+      },
+      "29": {
+        "powder_g": 2.6,
+        "milk_ml": 42
+      },
+      "30": {
+        "powder_g": 2.6,
+        "milk_ml": 38
+      }
+    }
+  },
+  "Elecare Infant": {
+    "type": "powder",
+    "note": "Type: Amino acid–based formula (powder)\n\nWhen to Use:\n- For infants with severe cow’s milk protein allergy (CMPA) who do not tolerate extensively hydrolyzed formulas.\n- For infants with multiple food protein intolerances.\n- Suitable for malabsorption, short bowel syndrome, or eosinophilic gastrointestinal disorders requiring an elemental diet.\n\nBenefits:\n- 100% free amino acids — hypoallergenic.\n- Lactose-free and appropriate for severe protein intolerance.\n- Nutritionally complete for infants up to 12 months.\n- Can be administered orally or via tube feeding.\n\nCautions:\n- Should be used under medical supervision.\n- Higher caloric concentrations may require hydration monitoring.\n- Cost may be higher than standard or hydrolyzed formulas.",
+    "basic_recipe_cal": 20,
+    "scoop_g": 9.4,
+    "tsp_g": 2.1,
+    "formula_only": {
+      "20": {
+        "powder_g": 28.2,
+        "water_ml": 180
+      },
+      "21": {
+        "powder_g": 28.2,
+        "water_ml": 171
+      },
+      "22": {
+        "powder_g": 28.2,
+        "water_ml": 162
+      },
+      "23": {
+        "powder_g": 28.2,
+        "water_ml": 154
+      },
+      "24": {
+        "powder_g": 28.2,
+        "water_ml": 147
+      },
+      "25": {
+        "powder_g": 28.2,
+        "water_ml": 140
+      },
+      "26": {
+        "powder_g": 28.2,
+        "water_ml": 134
+      },
+      "27": {
+        "powder_g": 28.2,
+        "water_ml": 128
+      },
+      "28": {
+        "powder_g": 28.2,
+        "water_ml": 123
+      },
+      "29": {
+        "powder_g": 28.2,
+        "water_ml": 118
+      },
+      "30": {
+        "powder_g": 28.2,
+        "water_ml": 113
+      }
+    },
+    "human_milk": {
+      "21": {
+        "powder_g": 2.1,
+        "milk_ml": 300
+      },
+      "22": {
+        "powder_g": 2.1,
+        "milk_ml": 150
+      },
+      "23": {
+        "powder_g": 2.1,
+        "milk_ml": 101
+      },
+      "24": {
+        "powder_g": 2.1,
+        "milk_ml": 76
+      },
+      "25": {
+        "powder_g": 2.1,
+        "milk_ml": 61
+      },
+      "26": {
+        "powder_g": 2.1,
+        "milk_ml": 51
+      },
+      "27": {
+        "powder_g": 2.1,
+        "milk_ml": 43
+      },
+      "28": {
+        "powder_g": 2.1,
+        "milk_ml": 38
+      },
+      "29": {
+        "powder_g": 2.1,
+        "milk_ml": 34
+      },
+      "30": {
+        "powder_g": 2.1,
+        "milk_ml": 30
+      }
+    }
+  },
+  "Enfacare": {
+    "type": "powder",
+    "note": "",
+    "basic_recipe_cal": 20,
+    "scoop_g": 9.8,
+    "tsp_g": 2.2,
+    "formula_only": {
+      "22": {
+        "powder_g": 29.4,
+        "water_ml": 178
+      },
+      "24": {
+        "powder_g": 29.4,
+        "water_ml": 161
+      },
+      "26": {
+        "powder_g": 29.4,
+        "water_ml": 147
+      },
+      "27": {
+        "powder_g": 29.4,
+        "water_ml": 140
+      },
+      "28": {
+        "powder_g": 29.4,
+        "water_ml": 135
+      },
+      "30": {
+        "powder_g": 29.4,
+        "water_ml": 124
+      }
+    },
+    "human_milk": {
+      "22": {
+        "powder_g": 2.2,
+        "milk_ml": 168
+      },
+      "24": {
+        "powder_g": 2.2,
+        "milk_ml": 84
+      },
+      "26": {
+        "powder_g": 2.2,
+        "milk_ml": 56
+      },
+      "27": {
+        "powder_g": 2.2,
+        "milk_ml": 48
+      },
+      "28": {
+        "powder_g": 2.2,
+        "milk_ml": 42
+      },
+      "30": {
+        "powder_g": 2.2,
+        "milk_ml": 34
+      }
+    }
+  },
+  "Enfamil AR": {
+    "type": "powder",
+    "note": "",
+    "basic_recipe_cal": 20,
+    "scoop_g": 9,
+    "formula_only": {
+      "20": {
+        "powder_g": 27,
+        "water_ml": 182
+      },
+      "22": {
+        "powder_g": 27,
+        "water_ml": 164
+      },
+      "24": {
+        "powder_g": 27,
+        "water_ml": 148
+      },
+      "26": {
+        "powder_g": 27,
+        "water_ml": 135
+      }
+    }
+  },
+  "Enfamil Gentlease": {
+    "type": "powder",
+    "note": "",
+    "basic_recipe_cal": 20,
+    "formula_only": {
+      "20": {
+        "powder_g": 26.1,
+        "water_ml": 178
+      },
+      "22": {
+        "powder_g": 26.1,
+        "water_ml": 160
+      },
+      "24": {
+        "powder_g": 26.1,
+        "water_ml": 145
+      },
+      "26": {
+        "powder_g": 26.1,
+        "water_ml": 132
+      },
+      "27": {
+        "powder_g": 26.1,
+        "water_ml": 127
+      },
+      "28": {
+        "powder_g": 26.1,
+        "water_ml": 121
+      },
+      "30": {
+        "powder_g": 26.1,
+        "water_ml": 112
+      }
+    },
+    "human_milk": {
+      "22": {
+        "powder_g": 2.3,
+        "milk_ml": 176
+      },
+      "24": {
+        "powder_g": 2.3,
+        "milk_ml": 88
+      },
+      "26": {
+        "powder_g": 2.3,
+        "milk_ml": 59
+      },
+      "27": {
+        "powder_g": 2.3,
+        "milk_ml": 50
+      },
+      "28": {
+        "powder_g": 2.3,
+        "milk_ml": 44
+      },
+      "30": {
+        "powder_g": 2.3,
+        "milk_ml": 35
+      }
+    }
+  },
+  "Enfamil NeuroPro Infant": {
+    "type": "powder",
+    "note": "",
+    "basic_recipe_cal": 20,
+    "formula_only": {
+      "20": {
+        "powder_g": 26.4,
+        "water_ml": 182
+      },
+      "22": {
+        "powder_g": 26.4,
+        "water_ml": 163
+      },
+      "24": {
+        "powder_g": 26.4,
+        "water_ml": 148
+      },
+      "26": {
+        "powder_g": 26.4,
+        "water_ml": 135
+      },
+      "27": {
+        "powder_g": 26.4,
+        "water_ml": 130
+      },
+      "28": {
+        "powder_g": 26.4,
+        "water_ml": 124
+      },
+      "30": {
+        "powder_g": 26.4,
+        "water_ml": 115
+      }
+    },
+    "human_milk": {
+      "22": {
+        "powder_g": 2.4,
+        "milk_ml": 181
+      },
+      "24": {
+        "powder_g": 2.4,
+        "milk_ml": 90
+      },
+      "26": {
+        "powder_g": 2.4,
+        "milk_ml": 60
+      },
+      "27": {
+        "powder_g": 2.4,
+        "milk_ml": 52
+      },
+      "28": {
+        "powder_g": 2.4,
+        "milk_ml": 45
+      },
+      "30": {
+        "powder_g": 2.4,
+        "milk_ml": 36
+      }
+    }
+  },
+  "Enfaport": {
+    "type": "liquid",
+    "note": "",
+    "basic_recipe_cal": 30,
+    "formula_only": {
+      "20": {
+        "water_ml": 89,
+        "rtf_ml": 177
+      },
+      "22": {
+        "water_ml": 64,
+        "rtf_ml": 177
+      },
+      "24": {
+        "water_ml": 44,
+        "rtf_ml": 177
+      },
+      "26": {
+        "water_ml": 27,
+        "rtf_ml": 177
+      },
+      "27": {
+        "water_ml": 20,
+        "rtf_ml": 177
+      },
+      "28": {
+        "water_ml": 13,
+        "rtf_ml": 177
+      },
+      "30": {
+        "water_ml": 0,
+        "rtf_ml": 177
+      }
+    }
+  },
+  "Extensive HA": {
+    "type": "powder",
+    "note": "",
+    "basic_recipe_cal": 20,
+    "formula_only": {
+      "20": {
+        "powder_g": 13.8,
+        "water_ml": 92
+      },
+      "21": {
+        "powder_g": 13.8,
+        "water_ml": 87
+      },
+      "22": {
+        "powder_g": 13.8,
+        "water_ml": 83
+      },
+      "23": {
+        "powder_g": 13.8,
+        "water_ml": 79
+      },
+      "24": {
+        "powder_g": 13.8,
+        "water_ml": 75
+      },
+      "25": {
+        "powder_g": 13.8,
+        "water_ml": 72
+      },
+      "26": {
+        "powder_g": 13.8,
+        "water_ml": 69
+      },
+      "27": {
+        "powder_g": 13.8,
+        "water_ml": 66
+      },
+      "28": {
+        "powder_g": 13.8,
+        "water_ml": 63
+      },
+      "29": {
+        "powder_g": 13.8,
+        "water_ml": 60
+      },
+      "30": {
+        "powder_g": 13.8,
+        "water_ml": 58
+      }
+    },
+    "human_milk": {
+      "21": {
+        "powder_g": 2.7,
+        "milk_ml": 404
+      },
+      "22": {
+        "powder_g": 2.7,
+        "milk_ml": 202
+      },
+      "23": {
+        "powder_g": 2.7,
+        "milk_ml": 135
+      },
+      "24": {
+        "powder_g": 2.7,
+        "milk_ml": 101
+      },
+      "25": {
+        "powder_g": 2.7,
+        "milk_ml": 81
+      },
+      "26": {
+        "powder_g": 2.7,
+        "milk_ml": 67
+      },
+      "27": {
+        "powder_g": 2.7,
+        "milk_ml": 58
+      },
+      "28": {
+        "powder_g": 2.7,
+        "milk_ml": 51
+      },
+      "29": {
+        "powder_g": 2.7,
+        "milk_ml": 45
+      },
+      "30": {
+        "powder_g": 2.7,
+        "milk_ml": 40
+      }
+    }
+  },
+  "Fortini": {
+    "type": "liquid",
+    "note": "",
+    "basic_recipe_cal": 30,
+    "human_milk": {
+      "22": {
+        "rtf_ml": 30,
+        "milk_ml": 120
+      },
+      "24": {
+        "rtf_ml": 60,
+        "milk_ml": 90
+      },
+      "26": {
+        "rtf_ml": 120,
+        "milk_ml": 80
+      },
+      "27": {
+        "rtf_ml": 180,
+        "milk_ml": 75
+      },
+      "28": {
+        "rtf_ml": 120,
+        "milk_ml": 30
+      }
+    }
+  },
+  "Gerber Good Start Gentle": {
+    "type": "powder",
+    "note": "",
+    "basic_recipe_cal": 20,
+    "formula_only": {
+      "20": {
+        "powder_g": 26.1,
+        "water_ml": 180
+      },
+      "22": {
+        "powder_g": 26.1,
+        "water_ml": 162
+      },
+      "24": {
+        "powder_g": 26.1,
+        "water_ml": 147
+      },
+      "26": {
+        "powder_g": 26.1,
+        "water_ml": 134
+      },
+      "27": {
+        "powder_g": 26.1,
+        "water_ml": 128
+      },
+      "28": {
+        "powder_g": 26.1,
+        "water_ml": 123
+      },
+      "30": {
+        "powder_g": 26.1,
+        "water_ml": 114
+      }
+    },
+    "human_milk": {
+      "22": {
+        "powder_g": 2.2,
+        "milk_ml": 168
+      },
+      "24": {
+        "powder_g": 2.2,
+        "milk_ml": 84
+      },
+      "26": {
+        "powder_g": 2.2,
+        "milk_ml": 56
+      },
+      "27": {
+        "powder_g": 2.2,
+        "milk_ml": 48
+      },
+      "28": {
+        "powder_g": 2.2,
+        "milk_ml": 42
+      },
+      "30": {
+        "powder_g": 2.2,
+        "milk_ml": 33
+      }
+    }
+  },
+  "Gerber Good Start Soothe": {
+    "type": "powder",
+    "note": "",
+    "basic_recipe_cal": 20,
+    "formula_only": {
+      "20": {
+        "powder_g": 26.1,
+        "water_ml": 180
+      },
+      "22": {
+        "powder_g": 26.1,
+        "water_ml": 162
+      },
+      "24": {
+        "powder_g": 26.1,
+        "water_ml": 147
+      },
+      "26": {
+        "powder_g": 26.1,
+        "water_ml": 134
+      },
+      "27": {
+        "powder_g": 26.1,
+        "water_ml": 128
+      },
+      "28": {
+        "powder_g": 26.1,
+        "water_ml": 123
+      },
+      "30": {
+        "powder_g": 26.1,
+        "water_ml": 114
+      }
+    },
+    "human_milk": {
+      "22": {
+        "powder_g": 2.2,
+        "milk_ml": 168
+      },
+      "24": {
+        "powder_g": 2.2,
+        "milk_ml": 84
+      },
+      "26": {
+        "powder_g": 2.2,
+        "milk_ml": 56
+      },
+      "27": {
+        "powder_g": 2.2,
+        "milk_ml": 48
+      },
+      "28": {
+        "powder_g": 2.2,
+        "milk_ml": 42
+      },
+      "30": {
+        "powder_g": 2.2,
+        "milk_ml": 33
+      }
+    }
+  },
+  "Monogen": {
+    "type": "powder",
+    "note": "",
+    "basic_recipe_cal": 20,
+    "formula_only": {
+      "20": {
+        "powder_g": 16.8,
+        "water_ml": 97
+      },
+      "22": {
+        "powder_g": 16.8,
+        "water_ml": 87
+      },
+      "24": {
+        "powder_g": 16.8,
+        "water_ml": 79
+      },
+      "26": {
+        "powder_g": 16.8,
+        "water_ml": 72
+      },
+      "27": {
+        "powder_g": 16.8,
+        "water_ml": 68
+      },
+      "28": {
+        "powder_g": 16.8,
+        "water_ml": 65
+      },
+      "30": {
+        "powder_g": 16.8,
+        "water_ml": 60
+      }
+    }
+  },
+  "Neocate Infant": {
+    "type": "powder",
+    "note": "",
+    "basic_recipe_cal": 20,
+    "formula_only": {
+      "20": {
+        "powder_g": 13.8,
+        "water_ml": 90
+      },
+      "21": {
+        "powder_g": 13.8,
+        "water_ml": 85
+      },
+      "22": {
+        "powder_g": 13.8,
+        "water_ml": 81
+      },
+      "23": {
+        "powder_g": 13.8,
+        "water_ml": 77
+      },
+      "24": {
+        "powder_g": 13.8,
+        "water_ml": 74
+      },
+      "25": {
+        "powder_g": 13.8,
+        "water_ml": 70
+      },
+      "26": {
+        "powder_g": 13.8,
+        "water_ml": 67
+      },
+      "27": {
+        "powder_g": 13.8,
+        "water_ml": 64
+      },
+      "28": {
+        "powder_g": 13.8,
+        "water_ml": 62
+      },
+      "29": {
+        "powder_g": 13.8,
+        "water_ml": 59
+      },
+      "30": {
+        "powder_g": 13.8,
+        "water_ml": 57
+      }
+    },
+    "human_milk": {
+      "21": {
+        "powder_g": 2.6,
+        "milk_ml": 378
+      },
+      "22": {
+        "powder_g": 2.6,
+        "milk_ml": 189
+      },
+      "23": {
+        "powder_g": 2.6,
+        "milk_ml": 126
+      },
+      "24": {
+        "powder_g": 2.6,
+        "milk_ml": 95
+      },
+      "25": {
+        "powder_g": 2.6,
+        "milk_ml": 76
+      },
+      "26": {
+        "powder_g": 2.6,
+        "milk_ml": 63
+      },
+      "27": {
+        "powder_g": 2.6,
+        "milk_ml": 54
+      },
+      "28": {
+        "powder_g": 2.6,
+        "milk_ml": 47
+      },
+      "29": {
+        "powder_g": 2.6,
+        "milk_ml": 42
+      },
+      "30": {
+        "powder_g": 2.6,
+        "milk_ml": 38
+      }
+    }
+  },
+  "Neosure": {
+    "type": "powder",
+    "note": "",
+    "basic_recipe_cal": 22,
+    "formula_only": {
+      "22": {
+        "powder_g": 28.8,
+        "water_ml": 180
+      },
+      "24": {
+        "powder_g": 28.8,
+        "water_ml": 163
+      },
+      "26": {
+        "powder_g": 28.8,
+        "water_ml": 149
+      },
+      "27": {
+        "powder_g": 28.8,
+        "water_ml": 142
+      },
+      "28": {
+        "powder_g": 28.8,
+        "water_ml": 137
+      },
+      "30": {
+        "powder_g": 28.8,
+        "water_ml": 126
+      }
+    },
+    "human_milk": {
+      "22": {
+        "powder_g": 2.1,
+        "milk_ml": 160
+      },
+      "24": {
+        "powder_g": 2.1,
+        "milk_ml": 80
+      },
+      "26": {
+        "powder_g": 2.1,
+        "milk_ml": 53
+      },
+      "27": {
+        "powder_g": 2.1,
+        "milk_ml": 46
+      },
+      "28": {
+        "powder_g": 2.1,
+        "milk_ml": 40
+      },
+      "30": {
+        "powder_g": 2.1,
+        "milk_ml": 32
+      }
+    }
+  },
+  "Nutramigen": {
+    "type": "powder",
+    "note": "",
+    "basic_recipe_cal": 20,
+    "formula_only": {
+      "20": {
+        "powder_g": 27,
+        "water_ml": 181
+      },
+      "22": {
+        "powder_g": 27,
+        "water_ml": 163
+      },
+      "24": {
+        "powder_g": 27,
+        "water_ml": 148
+      },
+      "26": {
+        "powder_g": 27,
+        "water_ml": 135
+      },
+      "27": {
+        "powder_g": 27,
+        "water_ml": 129
+      },
+      "28": {
+        "powder_g": 27,
+        "water_ml": 124
+      },
+      "30": {
+        "powder_g": 27,
+        "water_ml": 114
+      }
+    },
+    "human_milk": {
+      "22": {
+        "powder_g": 2.1,
+        "milk_ml": 160
+      },
+      "24": {
+        "powder_g": 2.1,
+        "milk_ml": 80
+      },
+      "26": {
+        "powder_g": 2.1,
+        "milk_ml": 53
+      },
+      "27": {
+        "powder_g": 2.1,
+        "milk_ml": 46
+      },
+      "28": {
+        "powder_g": 2.1,
+        "milk_ml": 40
+      },
+      "30": {
+        "powder_g": 2.1,
+        "milk_ml": 32
+      }
+    }
+  },
+  "Pepticate": {
+    "type": "powder",
+    "note": "",
+    "basic_recipe_cal": 22,
+    "formula_only": {
+      "22": {
+        "powder_g": 14.4,
+        "water_ml": 82
+      },
+      "24": {
+        "powder_g": 14.4,
+        "water_ml": 75
+      },
+      "26": {
+        "powder_g": 14.4,
+        "water_ml": 68
+      },
+      "27": {
+        "powder_g": 14.4,
+        "water_ml": 65
+      },
+      "28": {
+        "powder_g": 14.4,
+        "water_ml": 63
+      },
+      "30": {
+        "powder_g": 14.4,
+        "water_ml": 58
+      }
+    },
+    "human_milk": {
+      "22": {
+        "powder_g": 2.8,
+        "milk_ml": 190
+      },
+      "24": {
+        "powder_g": 2.8,
+        "milk_ml": 100
+      },
+      "26": {
+        "powder_g": 2.8,
+        "milk_ml": 65
+      },
+      "27": {
+        "powder_g": 2.8,
+        "milk_ml": 55
+      },
+      "28": {
+        "powder_g": 2.8,
+        "milk_ml": 50
+      },
+      "30": {
+        "powder_g": 2.8,
+        "milk_ml": 40
+      }
+    }
+  },
+  "Pregestimil": {
+    "type": "powder",
+    "note": "",
+    "formula_only": {
+      "20": {
+        "powder_g": 26.7,
+        "water_ml": 179
+      },
+      "21": {
+        "powder_g": 26.7,
+        "water_ml": 170
+      },
+      "22": {
+        "powder_g": 26.7,
+        "water_ml": 161
+      },
+      "23": {
+        "powder_g": 26.7,
+        "water_ml": 153
+      },
+      "24": {
+        "powder_g": 26.7,
+        "water_ml": 146
+      },
+      "25": {
+        "powder_g": 26.7,
+        "water_ml": 139
+      },
+      "26": {
+        "powder_g": 26.7,
+        "water_ml": 133
+      },
+      "27": {
+        "powder_g": 26.7,
+        "water_ml": 127
+      },
+      "28": {
+        "powder_g": 26.7,
+        "water_ml": 122
+      },
+      "30": {
+        "powder_g": 26.7,
+        "water_ml": 113
+      }
+    },
+    "human_milk": {
+      "21": {
+        "powder_g": 2.7,
+        "milk_ml": 400
+      },
+      "22": {
+        "powder_g": 2.7,
+        "milk_ml": 200
+      },
+      "23": {
+        "powder_g": 2.7,
+        "milk_ml": 133
+      },
+      "24": {
+        "powder_g": 2.7,
+        "milk_ml": 100
+      },
+      "25": {
+        "powder_g": 2.7,
+        "milk_ml": 80
+      },
+      "26": {
+        "powder_g": 2.7,
+        "milk_ml": 67
+      },
+      "27": {
+        "powder_g": 2.7,
+        "milk_ml": 57
+      },
+      "28": {
+        "powder_g": 2.7,
+        "milk_ml": 50
+      },
+      "30": {
+        "powder_g": 2.7,
+        "milk_ml": 40
+      }
+    }
+  },
+  "Prosobee": {
+    "type": "powder",
+    "note": "",
+    "basic_recipe_cal": 20,
+    "formula_only": {
+      "20": {
+        "powder_g": 26.4,
+        "water_ml": 182
+      },
+      "22": {
+        "powder_g": 26.4,
+        "water_ml": 164
+      },
+      "24": {
+        "powder_g": 26.4,
+        "water_ml": 148
+      },
+      "26": {
+        "powder_g": 26.4,
+        "water_ml": 132
+      },
+      "27": {
+        "powder_g": 26.4,
+        "water_ml": 126
+      },
+      "28": {
+        "powder_g": 26.4,
+        "water_ml": 121
+      },
+      "30": {
+        "powder_g": 26.4,
+        "water_ml": 112
+      }
+    },
+    "human_milk": {
+      "22": {
+        "powder_g": 2.1,
+        "milk_ml": 161
+      },
+      "24": {
+        "powder_g": 2.1,
+        "milk_ml": 80
+      },
+      "26": {
+        "powder_g": 2.1,
+        "milk_ml": 54
+      },
+      "27": {
+        "powder_g": 2.1,
+        "milk_ml": 46
+      },
+      "28": {
+        "powder_g": 2.1,
+        "milk_ml": 40
+      },
+      "30": {
+        "powder_g": 2.1,
+        "milk_ml": 32
+      }
+    }
+  },
+  "PurAmino": {
+    "type": "powder",
+    "note": "",
+    "basic_recipe_cal": 20,
+    "formula_only": {
+      "20": {
+        "powder_g": 13.5,
+        "water_ml": 91
+      },
+      "21": {
+        "powder_g": 13.5,
+        "water_ml": 86
+      },
+      "22": {
+        "powder_g": 13.5,
+        "water_ml": 82
+      },
+      "23": {
+        "powder_g": 13.5,
+        "water_ml": 78
+      },
+      "24": {
+        "powder_g": 13.5,
+        "water_ml": 74
+      },
+      "25": {
+        "powder_g": 13.5,
+        "water_ml": 71
+      },
+      "26": {
+        "powder_g": 13.5,
+        "water_ml": 67
+      },
+      "27": {
+        "powder_g": 13.5,
+        "water_ml": 65
+      },
+      "28": {
+        "powder_g": 13.5,
+        "water_ml": 62
+      },
+      "29": {
+        "powder_g": 13.5,
+        "water_ml": 59
+      },
+      "30": {
+        "powder_g": 13.5,
+        "water_ml": 57
+      }
+    },
+    "human_milk": {
+      "21": {
+        "powder_g": 2.4,
+        "milk_ml": 360
+      },
+      "22": {
+        "powder_g": 2.4,
+        "milk_ml": 180
+      },
+      "23": {
+        "powder_g": 2.4,
+        "milk_ml": 120
+      },
+      "24": {
+        "powder_g": 2.4,
+        "milk_ml": 90
+      },
+      "25": {
+        "powder_g": 2.4,
+        "milk_ml": 72
+      },
+      "26": {
+        "powder_g": 2.4,
+        "milk_ml": 60
+      },
+      "27": {
+        "powder_g": 2.4,
+        "milk_ml": 51
+      },
+      "28": {
+        "powder_g": 2.4,
+        "milk_ml": 45
+      },
+      "29": {
+        "powder_g": 2.4,
+        "milk_ml": 40
+      },
+      "30": {
+        "powder_g": 2.4,
+        "milk_ml": 36
+      }
+    }
+  },
+  "Similac Advance": {
+    "type": "powder",
+    "note": "",
+    "basic_recipe_cal": 20,
+    "formula_only": {
+      "20": {
+        "powder_g": 25.8,
+        "water_ml": 181
+      },
+      "22": {
+        "powder_g": 25.8,
+        "water_ml": 162
+      },
+      "24": {
+        "powder_g": 25.8,
+        "water_ml": 147
+      },
+      "26": {
+        "powder_g": 25.8,
+        "water_ml": 134
+      },
+      "27": {
+        "powder_g": 25.8,
+        "water_ml": 129
+      },
+      "28": {
+        "powder_g": 25.8,
+        "water_ml": 123
+      },
+      "30": {
+        "powder_g": 25.8,
+        "water_ml": 114
+      }
+    },
+    "human_milk": {
+      "22": {
+        "powder_g": 2.1,
+        "milk_ml": 161
+      },
+      "24": {
+        "powder_g": 2.1,
+        "milk_ml": 80
+      },
+      "26": {
+        "powder_g": 2.1,
+        "milk_ml": 54
+      },
+      "27": {
+        "powder_g": 2.1,
+        "milk_ml": 46
+      },
+      "28": {
+        "powder_g": 2.1,
+        "milk_ml": 40
+      },
+      "30": {
+        "powder_g": 2.1,
+        "milk_ml": 32
+      }
+    }
+  },
+  "Similac Alimentum": {
+    "type": "powder",
+    "note": "",
+    "basic_recipe_cal": 20,
+    "formula_only": {
+      "20": {
+        "powder_g": 26.1,
+        "water_ml": 180
+      },
+      "22": {
+        "powder_g": 26.1,
+        "water_ml": 161
+      },
+      "24": {
+        "powder_g": 26.1,
+        "water_ml": 146
+      },
+      "26": {
+        "powder_g": 26.1,
+        "water_ml": 134
+      },
+      "27": {
+        "powder_g": 26.1,
+        "water_ml": 128
+      },
+      "28": {
+        "powder_g": 26.1,
+        "water_ml": 123
+      },
+      "30": {
+        "powder_g": 26.1,
+        "water_ml": 113
+      }
+    },
+    "human_milk": {
+      "22": {
+        "powder_g": 2.1,
+        "milk_ml": 160
+      },
+      "24": {
+        "powder_g": 2.1,
+        "milk_ml": 80
+      },
+      "26": {
+        "powder_g": 2.1,
+        "milk_ml": 53
+      },
+      "27": {
+        "powder_g": 2.1,
+        "milk_ml": 45
+      },
+      "28": {
+        "powder_g": 2.1,
+        "milk_ml": 40
+      },
+      "30": {
+        "powder_g": 2.1,
+        "milk_ml": 32
+      }
+    }
+  },
+  "Similac Human Milk Fortifier": {
+    "type": "liquid",
+    "note": "",
+    "special_recipe": {
+      "20_5": {
+        "hmf_packets": 1,
+        "milk_ml": 200
+      },
+      "21": {
+        "hmf_packets": 1,
+        "milk_ml": 100
+      },
+      "21_5": {
+        "hmf_packets": 1,
+        "milk_ml": 70
+      },
+      "22": {
+        "hmf_packets": 1,
+        "milk_ml": 50
+      },
+      "22_5": {
+        "hmf_packets": 1,
+        "milk_ml": 39
+      },
+      "23": {
+        "hmf_packets": 1,
+        "milk_ml": 30
+      },
+      "23_5": {
+        "hmf_packets": 1,
+        "milk_ml": 26
+      },
+      "24": {
+        "hmf_packets": 1,
+        "milk_ml": 25
+      },
+      "25": {
+        "recipe": "1 part HM 20 + 1 part SSC30"
+      },
+      "26": {
+        "recipe": "2 parts HM 24 with HMF + 1 part SSC30"
+      },
+      "27": {
+        "recipe": "1 part HM 24 with HMF + 1 part SSC30"
+      },
+      "28": {
+        "recipe": "1 part HM 24 with HMF + 2 parts SSC30"
+      }
+    }
+  },
+  "Similac PM 60|40": {
+    "type": "powder",
+    "note": "",
+    "basic_recipe_cal": 20,
+    "formula_only": {
+      "20": {
+        "powder_g": 26.1,
+        "water_ml": 181
+      },
+      "22": {
+        "powder_g": 26.1,
+        "water_ml": 162
+      },
+      "24": {
+        "powder_g": 26.1,
+        "water_ml": 147
+      },
+      "26": {
+        "powder_g": 26.1,
+        "water_ml": 134
+      },
+      "27": {
+        "powder_g": 26.1,
+        "water_ml": 128
+      },
+      "28": {
+        "powder_g": 26.1,
+        "water_ml": 123
+      },
+      "30": {
+        "powder_g": 26.1,
+        "water_ml": 113
+      }
+    },
+    "human_milk": {
+      "22": {
+        "powder_g": 2.1,
+        "milk_ml": 161
+      },
+      "24": {
+        "powder_g": 2.1,
+        "milk_ml": 80
+      },
+      "26": {
+        "powder_g": 2.1,
+        "milk_ml": 54
+      },
+      "27": {
+        "powder_g": 2.1,
+        "milk_ml": 46
+      },
+      "28": {
+        "powder_g": 2.1,
+        "milk_ml": 40
+      },
+      "30": {
+        "powder_g": 2.1,
+        "milk_ml": 32
+      }
+    }
+  },
+  "Similac Pure Bliss": {
+    "type": "powder",
+    "note": "",
+    "basic_recipe_cal": 19,
+    "formula_only": {
+      "19": {
+        "powder_g": 24.9,
+        "water_ml": 182
+      },
+      "20": {
+        "powder_g": 24.9,
+        "water_ml": 172
+      },
+      "22": {
+        "powder_g": 24.9,
+        "water_ml": 155
+      },
+      "24": {
+        "powder_g": 24.9,
+        "water_ml": 140
+      },
+      "26": {
+        "powder_g": 24.9,
+        "water_ml": 128
+      },
+      "27": {
+        "powder_g": 24.9,
+        "water_ml": 122
+      },
+      "28": {
+        "powder_g": 24.9,
+        "water_ml": 117
+      },
+      "30": {
+        "powder_g": 24.9,
+        "water_ml": 108
+      }
+    },
+    "human_milk": {
+      "22": {
+        "powder_g": 2.1,
+        "milk_ml": 160
+      },
+      "24": {
+        "powder_g": 2.1,
+        "milk_ml": 80
+      },
+      "26": {
+        "powder_g": 2.1,
+        "milk_ml": 53
+      },
+      "27": {
+        "powder_g": 2.1,
+        "milk_ml": 46
+      },
+      "28": {
+        "powder_g": 2.1,
+        "milk_ml": 40
+      },
+      "30": {
+        "powder_g": 2.1,
+        "milk_ml": 32
+      }
+    }
+  },
+  "Similac Sensitive": {
+    "type": "powder",
+    "note": "",
+    "basic_recipe_cal": 20,
+    "formula_only": {
+      "20": {
+        "powder_g": 26.4,
+        "water_ml": 180
+      },
+      "22": {
+        "powder_g": 26.4,
+        "water_ml": 162
+      },
+      "24": {
+        "powder_g": 26.4,
+        "water_ml": 147
+      },
+      "26": {
+        "powder_g": 26.4,
+        "water_ml": 134
+      },
+      "27": {
+        "powder_g": 26.4,
+        "water_ml": 129
+      },
+      "28": {
+        "powder_g": 26.4,
+        "water_ml": 123
+      },
+      "30": {
+        "powder_g": 26.4,
+        "water_ml": 114
+      }
+    },
+    "human_milk": {
+      "22": {
+        "powder_g": 2.1,
+        "milk_ml": 159
+      },
+      "24": {
+        "powder_g": 2.1,
+        "milk_ml": 80
+      },
+      "26": {
+        "powder_g": 2.1,
+        "milk_ml": 53
+      },
+      "27": {
+        "powder_g": 2.1,
+        "milk_ml": 45
+      },
+      "28": {
+        "powder_g": 2.1,
+        "milk_ml": 40
+      },
+      "30": {
+        "powder_g": 2.1,
+        "milk_ml": 32
+      }
+    }
+  },
+  "Similac Soy Isomil": {
+    "type": "powder",
+    "note": "",
+    "basic_recipe_cal": 20,
+    "formula_only": {
+      "20": {
+        "powder_g": 26.4,
+        "water_ml": 182
+      },
+      "22": {
+        "powder_g": 26.4,
+        "water_ml": 163
+      },
+      "24": {
+        "powder_g": 26.4,
+        "water_ml": 148
+      },
+      "26": {
+        "powder_g": 26.4,
+        "water_ml": 135
+      },
+      "27": {
+        "powder_g": 26.4,
+        "water_ml": 129
+      },
+      "28": {
+        "powder_g": 26.4,
+        "water_ml": 124
+      },
+      "30": {
+        "powder_g": 26.4,
+        "water_ml": 114
+      }
+    },
+    "human_milk": {
+      "22": {
+        "powder_g": 2.1,
+        "milk_ml": 159
+      },
+      "24": {
+        "powder_g": 2.1,
+        "milk_ml": 80
+      },
+      "26": {
+        "powder_g": 2.1,
+        "milk_ml": 53
+      },
+      "27": {
+        "powder_g": 2.1,
+        "milk_ml": 45
+      },
+      "28": {
+        "powder_g": 2.1,
+        "milk_ml": 40
+      },
+      "30": {
+        "powder_g": 2.1,
+        "milk_ml": 32
+      }
+    }
+  },
+  "Similac Special Care Blends": {
+    "type": "liquid",
+    "note": "",
+    "special_recipe": {
+      "25": {
+        "recipe": "4 parts SSC 24 + 1 part SSC 30"
+      },
+      "26": {
+        "recipe": "2 parts SSC 24 + 1 part SSC 30"
+      },
+      "27": {
+        "recipe": "1 part SSC 24 + 1 part SSC 30"
+      },
+      "28": {
+        "recipe": "1 part SSC 24 + 2 parts SSC 30"
+      }
+    }
+  },
+  "Similac Total Comfort": {
+    "type": "powder",
+    "note": "",
+    "basic_recipe_cal": 20,
+    "formula_only": {
+      "20": {
+        "powder_g": 26.4,
+        "water_ml": 180
+      },
+      "22": {
+        "powder_g": 26.4,
+        "water_ml": 161
+      },
+      "24": {
+        "powder_g": 26.4,
+        "water_ml": 146
+      },
+      "26": {
+        "powder_g": 26.4,
+        "water_ml": 133
+      },
+      "27": {
+        "powder_g": 26.4,
+        "water_ml": 128
+      },
+      "28": {
+        "powder_g": 26.4,
+        "water_ml": 122
+      },
+      "30": {
+        "powder_g": 26.4,
+        "water_ml": 113
+      }
+    },
+    "human_milk": {
+      "22": {
+        "powder_g": 2.1,
+        "milk_ml": 158
+      },
+      "24": {
+        "powder_g": 2.1,
+        "milk_ml": 79
+      },
+      "26": {
+        "powder_g": 2.1,
+        "milk_ml": 53
+      },
+      "27": {
+        "powder_g": 2.1,
+        "milk_ml": 45
+      },
+      "28": {
+        "powder_g": 2.1,
+        "milk_ml": 40
+      },
+      "30": {
+        "powder_g": 2.1,
+        "milk_ml": 32
+      }
+    }
+  }
+}

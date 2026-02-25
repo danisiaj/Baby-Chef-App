@@ -1,0 +1,43 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "babychef-fdb32",
+          "appId": "1:74648746834:android:e71645fcf6932ccfadd88b",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "babychef-fdb32",
+          "configurations": {
+            "android": "1:74648746834:android:e71645fcf6932ccfadd88b",
+            "ios": "1:74648746834:ios:a71d3bc0d358b748add88b",
+            "macos": "1:74648746834:ios:a71d3bc0d358b748add88b",
+            "web": "1:74648746834:web:d6cdafffe38048aeadd88b",
+            "windows": "1:74648746834:web:2b55c9f7f7a5f02aadd88b"
+          }
+        }
+      }
+    }
+  },
+  "functions": [
+    {
+      "codebase": "default",
+      "disallowLegacyRuntimeConfig": true,
+      "ignore": [
+        "node_modules",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log",
+        "*.local"
+      ],
+      "predeploy": [
+        "npm --prefix \"$RESOURCE_DIR\" run lint",
+        "npm --prefix \"$RESOURCE_DIR\" run build"
+      ],
+      "source": "functions"
+    }
+  ]
+}

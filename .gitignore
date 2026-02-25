@@ -26,3 +26,4 @@ yarn-error.log*
 
 # Environment files (local configs)
 /.env.*
+baby_chef/lib/firebase_options.dart

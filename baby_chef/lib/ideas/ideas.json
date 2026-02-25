@@ -1,0 +1,38 @@
+{
+    "add recipes notes on json file": "try markdown",
+    "make the appBar dissapear on scrolling?": "Can it be done? Do I want to?",
+    "add user roles": {
+        "guest?": {
+            "recipes": true,
+            "calculations": false,
+            "formula_prep add formula": false,
+            "formula_prep manage formulas": false,
+            "recipes editor": false
+        },
+        "RN": {
+            "recipes": true,
+            "calculations": true,
+            "formula_prep add formula": true,
+            "formula_prep manage formulas": false,
+            "recipes editor": false
+        },
+        "Formula team": {
+            "recipes": true,
+            "calculations": true,
+            "formula_prep add formula": true,
+            "formula_prep manage formulas": true,
+            "recipes editor": false
+        },
+        "admin": {
+            "recipes": true,
+            "calculations": true,
+            "formula_prep add formula": true,
+            "formula_prep manage formulas": true,
+            "recipes editor": true
+        }
+    },
+    "formula_prep_sheet.dart": "onSave(add item to table below form)/Firebase vs Local Storage",
+    "Favorite recipes":"favorites page + heart icon on result card",
+    "add oz and scoops to calculations":"auto detect vs calcuation mode switch"
+
+}
